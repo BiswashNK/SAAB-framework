@@ -1,0 +1,19 @@
+
+# Core numerical + ML stack
+numpy>=1.24,<2.0
+scikit-learn>=1.4,<1.6
+scipy>=1.11,<2.0
+tqdm>=4.66
+
+# Deep learning (BiLSTM encoder)
+torch>=2.6,<2.9
+
+# Explainability (optional SHAP)
+shap>=0.45,<0.48
+
+# Utility and IO
+pyyaml>=6.0.1
+regex>=2023.6.3
+
+# (optional, if you later use Foolbox-based attacks)
+# foolbox==3.3.3
