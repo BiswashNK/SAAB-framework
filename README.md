@@ -1,4 +1,4 @@
-# EatVul-Resources: SHAP-Enhanced Defense Against Adversarial Attac## 🚀 Quick Start
+# SHAP-Enhanced Defense Against Adversarial Attac## 🚀 Quick Start
 
 ### 1. Environment Setup
 ```bash
